@@ -1,5 +1,5 @@
 echo "PUBG KR SRC_VERSION CHANGER SCRIPT"
-echo "Written by: AcktarDevs"
+echo "Written by: Acktar"
 echo "For Non-root devices :3"
 
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{PufferEifs0,PufferEifs1} &>/dev/null
